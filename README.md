@@ -1,2 +1,6 @@
 # Programação orientada à objetos
-25/09/2025
+
+Repositório de **Matheus Nascimento Adegas (582041 / 2º semestre)**
+
+25/09/2025 - Arquivo 25092025.ipynb que contém as questões entregues em 24 de setembro.
+-# Inserção de coordenadas para pontos e comparação geométrica.
