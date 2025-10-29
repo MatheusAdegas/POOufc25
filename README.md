@@ -9,3 +9,5 @@ Repositório de **Matheus Nascimento Adegas (582041 / 2º semestre)**
 </br>
 27/10/2025 - arquivo 27102025a.pynb, que contém questões de UML e classes em python.
 > <img width="409" height="447" alt="image" src="https://github.com/user-attachments/assets/a6a87ea9-e124-4061-91b4-012ec9ebc0c6" />
+</br>
+29/10/2025 - novo arquivo zip com a atividade do dia 29.
